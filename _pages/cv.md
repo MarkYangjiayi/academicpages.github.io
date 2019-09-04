@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+[pdf version]()
 Education
 ======
 * B.S. in Telecommunicaitons Engineering and Management, Beijing University of Posts and Telecommunicaitons (BUPT), 2020 (expected)
