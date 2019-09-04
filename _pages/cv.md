@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+[pdf version](www.baidu.com)<br/>
 
 Education
 ======
