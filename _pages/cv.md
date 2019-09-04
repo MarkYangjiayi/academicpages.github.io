@@ -20,14 +20,14 @@ Intern experience
   * Research Area:
     * Neural Network Compression
     * Semantic Segmentation
-  * Supervisor: Professor Guoqi Li
+  * Supervisor: [Professor Guoqi Li](https://liguoqi.net)
 
 <div style="float:right">Jul 2019 - Oct 2019</div>
 * Scalable Energy-Efficient Architecture Lab @ ***University of California, Santa Barbara***
   * Research Area:
     * Neural Network Compression
     * Spiking Neural Networks
-  * Supervisor: Dr. Lei Deng
+  * Supervisor: [Dr. Lei Deng](https://seal.ece.ucsb.edu/people/lei-deng)
 
 Publications
 ======
