@@ -11,28 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in Telecommunicaitons Engineering and Management, Beijing University of Posts and Telecommunicaitons, 2020 (expected)
+* B.S. in Telecommunicaitons Engineering and Management, Beijing University of Posts and Telecommunicaitons (BUPT), 2020 (expected)
 
-Work experience
+Intern experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+<div style="float:right">Jul 2018 - Jul 2019</div>
+* Center for Brain Inspired Computing Research @ ***Tsinghua University***
+  * Research Area:
+    * Neural Network Compression
+    * Semantic Segmentation
+  * Supervisor: Professor Guoqi Li
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+<div style="float:right">Jul 2019 - Oct 2019</div>
+* Scalable Energy-Efficient Architecture Lab @ ***University of California, Santa Barbara***
+  * Research Area:
+    * Neural Network Compression
+    * Spiking Neural Networks
+  * Supervisor: Dr. Lei Deng
 
 Publications
 ======
@@ -40,18 +35,30 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Talks
+Research Experience
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+<div style="float:right">Apr 2018 - Nov 2018</div>
+* Large Kernel Spatial Pyramid Pooling for Image Segmentation @ ***BUPT***
+  * Advised by Prof. Junli Yang
+  * Initiated a timeline for the project and distributed tasks to group members
+  * Designing an demonstration that performs live semantic segmentation in the webpage
+  * Published paper “Large Kernel Spatial Pyramid Pooling for Semantic Segmentation” on ICIG 2019
 
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<div style="float:right">Nov 2018 - Jul 2019</div>
+* Training and Inference for Integer-based Semantic Segmentation Network   @ ***Tsinghua University***
+  * Research on training and inferencing semantic segmentation network with discrete data flow
+  * Propose quantization framework that constrain network data flows to 8 bit and adapt for Integer-based deep learning accelerator
+  * Wrote paper “Training and Inference for Integer-based Semantic Segmentation Network” (Under review)
 
-Service and leadership
+Project Experience
 ======
-* Currently signed in to 43 different slack teams
+<div style="float:right"> Jul 2018 - Oct 2018</div>
+* Training and Inference for Integer-based Semantic Segmentation Network   @ ***Tsinghua University***
+  * Built web application using UDP for short distance transmission of data and result for the simulation system.
+  * Design specific quantized Convolutional Neural Network for simulation.
+  * Mapping and simulation of Convolutional Neural Network on “Tianjic” Brain Inspired Computation chip set.
+
+Skills
+======
+* Pytorch
+* Tensorflow
