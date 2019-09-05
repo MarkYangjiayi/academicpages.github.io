@@ -34,7 +34,8 @@ Publications
 ======
   <!-- <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul> -->  
+
   **Training and Inference for Integer-Based Semantic Segmentation Network**  
   **Jiayi Yang**, Lei Deng, Yukuan Yang, Yuan Xie, Guoqi Li.  
   Pattern Recognition *(Under Review)*
