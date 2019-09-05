@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[pdf version](www.baidu.com)<br/>
+[pdf version](../files/Jiayi_Yang_cv.pdf)<br/>
 
 Education
 ======
