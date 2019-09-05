@@ -32,10 +32,16 @@ Intern experience
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <!-- <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
+  **Training and Inference for Integer-Based Semantic Segmentation Network**  
+  **Jiayi Yang**, Lei Deng, Yukuan Yang, Yuan Xie, Guoqi Li.  
+  Pattern Recognition *(Under Review)*
 
+  **Large Kernel Spatial Pyramid Pooling for Semantic Segmentation**  
+  **Jiayi Yang**, Tianshi Hu, Junli Yang, Zhaoxing Zhang, Yue Pan.  
+  in International Conference on Image and Graphics *(ICIG)*, Beijing, August 2019.  
 Research Experience
 ======
 <div style="float:right">Apr 2018 - Nov 2018</div>
