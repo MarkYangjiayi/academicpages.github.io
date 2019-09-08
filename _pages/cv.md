@@ -27,7 +27,7 @@ Intern experience
 * Scalable Energy-Efficient Architecture Lab @ ***University of California, Santa Barbara***
   * Research Area:
     * Neural Network Compression
-    * Spiking Neural Networks
+    * Deep Learning
   * Supervisor: [Dr. Lei Deng](https://seal.ece.ucsb.edu/people/lei-deng)
 
 Publications
@@ -72,4 +72,4 @@ Skills
 
 <!-- <ul>{% for post in site.publications %}
   {% include archive-single-cv.html %}
-{% endfor %}</ul> --> 
+{% endfor %}</ul> -->
