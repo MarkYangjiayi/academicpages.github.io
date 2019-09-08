@@ -18,7 +18,7 @@ author_profile: true
 **Training and Inference for Integer-Based Semantic Segmentation Network**  
 **Jiayi Yang**, Lei Deng, Yukuan Yang, Yuan Xie, Guoqi Li.  
 Pattern Recognition *(Under Review)*  
-[pdf](../files/QFCN.pdf)
+[[pdf]](../files/QFCN.pdf)
 
 **Large Kernel Spatial Pyramid Pooling for Semantic Segmentation**  
 **Jiayi Yang**, Tianshi Hu, Junli Yang, Zhaoxing Zhang, Yue Pan.  
